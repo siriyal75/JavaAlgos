@@ -6,6 +6,7 @@ public class AddBigNumber {
 		String A = "12345234567788999900000023445555555";
 		String B = "12345234567788999900000023445555555";
 		System.out.println(addBigNumber(A,B));
+		//System.out.println(addBigNumber(A,B));
 
 	}
 
